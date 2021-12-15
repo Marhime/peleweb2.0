@@ -1,12 +1,9 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.peleweb.com">
-    <img alt="Peleweb" src="https://peleweb.com/wp-content/uploads/2021/11/Peleweb-Logo-Light.svg" width="191" />
+    <img alt="Peleweb" src="https://peleweb.com/wp-content/uploads/2021/11/Peleweb-Logo-Light.svg" width="380" />
   </a>
 </p>
-<h1 align="center">
-  Peleweb
-</h1>
 
 ## 🚀 Quick start
 
