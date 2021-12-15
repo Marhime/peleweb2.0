@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.peleweb.com">
-    <img alt="Peleweb" src="https://peleweb.com/wp-content/uploads/2021/11/Peleweb-Logo-Dark.svg" width="60" />
+    <img alt="Peleweb" src="https://peleweb.com/wp-content/uploads/2021/11/Peleweb-Logo-Light.svg" width="191" />
   </a>
 </p>
 <h1 align="center">
