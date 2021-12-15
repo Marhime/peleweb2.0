@@ -20,7 +20,7 @@ const IndexPage = () => (
             <h1 className="title big">Création de sites web sur mesure</h1>
             <p>
               Peleweb vous accompagne dans vos projets de création et de refonte
-              de site web sous WordPress.
+              de site web professionnels.
             </p>
             <a className="btn outline blue"> Nous contacter </a>
           </div>
